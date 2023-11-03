@@ -11,8 +11,8 @@ Top Gun movies volume was too loud and hurt my ears countless times during the m
 
 ```
 {
-    "Keywords": "",
-    "Sentiment": ""
+    "Keywords": "Lorem",
+    "Sentiment": "Ipsum"
 }
 ```
 Keyword: "Volume", "movie" ...
