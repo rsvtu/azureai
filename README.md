@@ -6,7 +6,7 @@ https://microsoftlearning.github.io/mslearn-openai/Instructions/Labs/03-prompt-e
 ### Tehtävä: Asiakas palautteen käsittely
 
 ```
-Movie Top Gun volume were too loud and hurt my ears countless times during the movie.
+Top Gun movies volume was too loud and hurt my ears countless times during the movie.
 ```
 
 ```
